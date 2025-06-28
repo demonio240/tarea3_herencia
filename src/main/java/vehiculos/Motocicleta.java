@@ -1,3 +1,5 @@
+package vehiculos;
+
 
 class Motocicleta extends Vehiculo {
     boolean tieneSidecar;

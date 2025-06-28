@@ -1,3 +1,5 @@
+package vehiculos;
+
 
 class Coche extends Vehiculo {
     int numeroPuertas;

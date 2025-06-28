@@ -1,3 +1,5 @@
+package vehiculos;
+
 class Vehiculo {
     String marca;
     int año;

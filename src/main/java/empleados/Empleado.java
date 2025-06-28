@@ -1,3 +1,5 @@
+package empleados;
+
 class Empleado {
     String nombre;
     double salario;
