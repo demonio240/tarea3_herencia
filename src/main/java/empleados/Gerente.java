@@ -1,5 +1,4 @@
 package empleados;
-import empleados.Empleado;
 
 class Gerente extends Empleado {
     double bono;

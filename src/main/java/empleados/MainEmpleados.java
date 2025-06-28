@@ -1,5 +1,5 @@
 package empleados;
-import empleados.Empleado;
+
 
 
 public class MainEmpleados {
